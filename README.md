@@ -1,6 +1,6 @@
 # Password Generator App
 
-![Password Generator App](./screenshots/screenshot.jpeg)
+![Password Generator App](.src/screenshots/screenshot.jpeg)
 
 ## Overview
 
